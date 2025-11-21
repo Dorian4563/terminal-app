@@ -1,5 +1,5 @@
 #!/bin/bash
-$0 {add#!/bin/bash}
+
 if [ "$1" == "add" ]; then
      if [ -f tasks.txt ]; then
         x=$(wc -l < tasks.txt)
