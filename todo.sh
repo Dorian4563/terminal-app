@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 TODO_FILE="tasks.txt" # Stores the tasks in a hidden file in your home directory
